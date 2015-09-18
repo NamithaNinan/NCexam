@@ -1,0 +1,38 @@
+.lsidebar{
+	position:relative;
+	top:0px;
+	margin-top:0;
+	margin-left:0;
+	padding-left:0px;
+	list-style:none;
+	border-bottom:none;
+	float:left;
+	top-margin:0;
+}
+ul.lsidebar li{
+	float:left;
+}
+.background {
+	 background-size:   cover;                     
+    background-repeat: no-repeat;
+}
+ul.lsidebar a{
+	width:12em;
+	display:inline;
+	border:none;
+	padding:15px;
+	background-color:#c0c0c0;
+	text-decoration:none;
+	color:#000000;
+	text-align:center;
+}
+ul.lsidebar a:hover{
+	width:12em;
+	display:inline;
+	border:none;
+	padding:5px;
+	background-color:#ff0080;
+	color:#000000;
+	text-align:center;
+}
+}
